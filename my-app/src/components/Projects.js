@@ -1,9 +1,13 @@
 import { Container, Row, Col, Tab } from 'react-bootstrap';
 
 import { Nav } from 'react-bootstrap';
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg1 from "../assets/img/projectImg1.png";
+import projImg2 from "../assets/img/projectImg2.png";
+import projImg3 from "../assets/img/projectImg3.png";
+import projImg4 from '../assets/img/projectimg4.png';
+import projImg5 from '../assets/img/projectimg5.png';
+import projImg6 from '../assets/img/projectImg6.png';
+
 import colorSharp2 from '../assets/img/color-sharp2.png'
 import { ProjectCard } from './ProjectCard';
 
@@ -27,17 +31,17 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: projImg4,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: projImg5,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: projImg6,
     },
   ];
 

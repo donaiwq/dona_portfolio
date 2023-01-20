@@ -52,7 +52,6 @@ export const NavBar = () => {
               <a href="https://www.linkedin.com/feed/"> <FaLinkedinIn /> </a>
             </div>
 
-            <button className="vvd" onClick={() => console.log('conect')}><span>Let's  conect</span></button>
 
           </span>
 
