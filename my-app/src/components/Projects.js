@@ -17,6 +17,7 @@ export const Projects = () => {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg1,
+      src:'http://127.0.0.1:5501/coffee.time/index.html'
     },
     {
       title: "Business Startup",

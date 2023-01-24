@@ -47,9 +47,9 @@ export const NavBar = () => {
           <span className="navbar-text">
 
             <div className="social-icon">
-              <a href="https://www.linkedin.com/feed/"> <FaGithub /> </a>
-              <a href="https://www.linkedin.com/feed/"> <FaInstagram /> </a>
-              <a href="https://www.linkedin.com/feed/"> <FaLinkedinIn /> </a>
+              <a target='_blank' href="https://github.com/donaiwq"> <FaGithub /> </a>
+              <a target='_blank' href="https://www.instagram.com/"> <FaInstagram /> </a>
+              <a target='_blank' href="https://www.linkedin.com/feed/"> <FaLinkedinIn /> </a>
             </div>
 
 
